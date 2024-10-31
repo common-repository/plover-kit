@@ -1,0 +1,39 @@
+= 1.0.7 =
+
+* Fix: Type error
+
+= 1.0.6 =
+
+* Ref: Update bootstrap constructor to accept app url
+
+= 1.0.5 =
+
+* Fix: CodeMirror component error
+* Fix: Missing CodeMirror dependence
+* Ref: Avoid enqueuing core styles on frontend
+* Ref: Classic theme optimize
+
+= 1.0.4 =
+
+* Add: Plugin toolkit
+* Add: Border & shadow options for core/details block
+* Add: Add border styles for core/paragraph block
+* Ref: Update primary color
+* Fix: Button element typography error
+* Fix: Register ploverBlockID attribute for all blocks on the server side
+
+= 1.0.3 =
+
+* Fix: Icon editor preview error
+
+= 1.0.2 =
+
+* Fix: JavaScript global vars error
+* Add: Global block categories
+
+= 1.0.1 =
+
+* Ref: Guideline compatible
+
+= 1.0.0 =
+* Released: June 6, 2024
